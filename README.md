@@ -12,7 +12,7 @@ Installation
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
 
-Project Motivation
+#Project Motivation
 For this project, I was interestested in using Stack Overflow data from 2020 to better understand:
 1. How companies are treating people of different sex?
 2. Whether people of different sex are having similar job satisfaction or not?
@@ -20,11 +20,11 @@ For this project, I was interestested in using Stack Overflow data from 2020 to 
 4. What is the experience level of differrent sexes at organizations of different sizes.
 
 
-File Descriptions
+#File Descriptions
 The notebook available here showcases work related to the above questions.
 
-Results
+#Results
 The main findings of the code can be found at the post available here.
 
-Licensing, Authors, Acknowledgements
+#Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
