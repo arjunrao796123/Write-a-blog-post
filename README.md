@@ -25,7 +25,7 @@ File Descriptions
 The notebook available here showcases work related to the above questions.
 
 Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available <a href="https://medium.com/@arao_81907/how-are-companies-treating-people-of-different-sex-2dd74eafe5e3">here</a>
 
 Licensing, Authors, Acknowledgements
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available here. Otherwise, feel free to use the code here as you would like!
