@@ -14,6 +14,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 Project Motivation
 For this project, I was interestested in using Stack Overflow data from 2020 to better understand:
+https://insights.stackoverflow.com/survey
 1. How companies are treating people of different sex?
 2. Whether people of different sex are having similar job satisfaction or not?
 3. How organizations of different sizes treate people of all genders?
